@@ -1,0 +1,15 @@
+RESERVADA,pantalla
+IDENTIFICADOR,#saludo#
+VALOR,saludo,Hola, el resultado es: 
+IDENTIFICADOR,#numero1#
+DIGITO,[10]
+VALOR,numero1,10
+IDENTIFICADOR,#numero2#
+DIGITO,[5.5]
+VALOR,numero2,5.5
+IDENTIFICADOR,#suma#
+IDENTIFICADOR,#numero1#
+IDENTIFICADOR,#numero2#
+VALOR,suma,15.5
+IDENTIFICADOR,#saludo#
+IDENTIFICADOR,#suma#
